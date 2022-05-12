@@ -5,7 +5,7 @@ Are you tired of logging in and rechecking the LUMS Portal every 5 minutes in ho
 ## Initial Download
 
 1. Download Python from [here](https://www.python.org/downloads/). Make sure you enable the `Add Python To Path` variable during installation
-2. Download this program by clicking the latest release available
+2. Download this program by clicking the latest release available [here](https://github.com/DaKheera47/LUMSStatus/releases)
 3. Extract the folder using 7zip or WinRAR
 
 ## Usage
